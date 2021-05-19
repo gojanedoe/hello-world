@@ -1,4 +1,6 @@
 # Hello, World! :wave:
-I'm an artist and designer starting the 100 Days of Code challenge. 
+I'm an artist, designer, and current web development student. 
 
-Although I've programmed before, I plan to start putting my code on GitHub.
+I have an irrational fear of using Git and GitHub and putting my code out into the world.
+
+So, here I am, planning on doing just that.
